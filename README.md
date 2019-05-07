@@ -4,9 +4,9 @@
 the more places you’ll go."
 —Dr. Seuss
 
-## Objectives
+## Learning Goals
 
-- Apply reading process to interpret unfamiliar code
+- Apply process to interpret unfamiliar code
 - Identify input/output flow of a method
 - Separate actions within an existing method
 - Distinguish clear and opaque code
@@ -17,14 +17,14 @@ the more places you’ll go."
 2.  Identify inputs and outputs
 3.  Distinguish and separate which parts of the code are **clear** and which are
     **opaque**
-4.  From your starting point, walk through the code linearly until your reach
+4.  From your starting point, walk through the code linearly until you reach
     opaque code.
 5.  Repeat steps 2-4 on the opaque code
 6.  Continue through all opaque code until the end
 
 In this lab, we're going to apply the process discussed in the previous lesson
 for interpreting unfamiliar code. The code in this lab is written already, but
-unfinished. Don't worry about finishing the code - your first task is interpret
+unfinished. Don't worry about finishing the code - your first task is to interpret
 what is already there - to build a model of how it works in your mind so that
 you may answer some questions about it.
 
